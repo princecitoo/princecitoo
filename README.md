@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @princecitoo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-princecitoo/princecitoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+@lucas.gavanski.colho@escola.pr.gov.br
+Oi meu nome e Lucas e nao sei em que area cursa,mas provavelmente vai ser na area de humanas
+🦆🦆
